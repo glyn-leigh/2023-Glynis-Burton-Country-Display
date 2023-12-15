@@ -1,0 +1,1 @@
+A simple app which fetches a list using Retrofit, build off of an MVVM structure and uses classic xml and fragments for displaying the contents. Capitalizes on CLEAN architecture and straightforward engineering. 
